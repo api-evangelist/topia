@@ -1,0 +1,49 @@
+# Topia – Global Mobility Platform
+
+> Topia helps enterprises manage global talent mobility, tax compliance, and distributed workforce operations in one platform. Founded in 2010, Topia serves HR, Finance, and Legal teams at mid-market and enterprise companies operating across borders.
+
+## Products
+
+- [Global Talent Mobility](https://topia.com/products/global-talent-mobility): End-to-end management of international assignments, relocations, and mobile workforce compliance.
+- [Tax & Compliance Engine](https://topia.com/products/tax-and-compliance-engine): Automated tax withholding, Permanent Establishment risk detection, and audit-ready records.
+- [Cost Estimation & Tracking](https://topia.com/products/cost-estimation-and-tracking): Real-time cost forecasting and budget management for global moves and assignments.
+- [Global Workforce Planning](https://topia.com/products/global-workforce-planning): Strategic planning and optimization of distributed talent distribution.
+- [Cost & Immigration Risk Management](https://topia.com/products/cost-and-immigration-risk-management): Proactive immigration compliance and risk mitigation across jurisdictions.
+- [Remote Work & Compliance](https://topia.com/products/remote-work-and-compliance): Policy management and compliance monitoring for remote and hybrid workers.
+- [Business Travel](https://topia.com/products/business-travel): Pre-travel assessments, day-count tracking, and business travel compliance automation.
+- [Topia Horizon](https://topia.com/horizon): AI-powered agentic workspace for global mobility teams (early access).
+
+## Key Pages
+
+- [Homepage](https://topia.com/): Platform overview and customer proof points.
+- [About Topia](https://topia.com/about): Company history, leadership, values, and global office locations.
+- [Request a Demo](https://topia.com/request-a-demo): Schedule a personalized product walkthrough.
+- [Contact](https://topia.com/contact-us): Sales, support, and general inquiries.
+- [Partners & Integrations](https://topia.com/partners-and-integrations): HRIS, payroll, immigration, and travel system integrations.
+- [Support Center](https://topia.com/support-center): Product help and documentation.
+- [Press](https://topia.com/press): News releases and company announcements.
+
+## Industries Served
+
+- [Technology](https://topia.com/industries/technology)
+- [Financial Services](https://topia.com/industries/financial-services)
+- [Life Sciences](https://topia.com/industries/life-sciences)
+- [Energy & Natural Resources](https://topia.com/industries/energy-natural-resources)
+- [Retail & Commerce](https://topia.com/industries/retail-commerce)
+
+## Resources & Learning
+
+- [Blog](https://topia.com/blog): Articles on global mobility trends, compliance, tax, and distributed workforce strategy.
+- [Glossary](https://topia.com/glossary): Definitions of 30+ global mobility terms (assignments, tax equalization, PE risk, etc.).
+- [Case Studies](https://topia.com/case-studies/groupe-seb-global-talent-mobility): Customer stories including Groupe SEB and Infor.
+- [eBooks](https://topia.com/ebooks/leading-platform-global-talent-mobility): In-depth guides on global mobility best practices.
+- [Videos](https://topia.com/videos/tackling-global-mobility-management): Product demos and feature overviews.
+- [Infographics](https://topia.com/infographics/employee-mobility-journey): Visual guide to the employee mobility journey.
+
+## Company
+
+- Headquarters: United States (CA, CO, GA, NY, PA, VA, WA)
+- Additional offices: United Kingdom, Ireland, Estonia
+- Founded: 2010
+- Website: https://topia.com
+- Contact: info@topia.com (sales), support@topia.com (support)

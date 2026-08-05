@@ -1,17 +1,37 @@
 aid: topia
 name: Topia
-description: 'Topia is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Topia is a global mobility platform for distributed workforces, used
+  by HR, Finance and Legal teams at mid-market and enterprise companies to manage international
+  assignments, relocations, business travel, remote work and cross-border compliance
+  across 190+ countries in a single system. Founded in 2010 and headquartered in the
+  United States, with additional offices in the United Kingdom, Ireland and Estonia,
+  Topia spans global talent mobility, a tax and compliance engine, cost estimation
+  and tracking, global workforce planning, cost and immigration risk management, and
+  business travel. In April 2026 Topia launched Horizon, an agentic AI workspace for
+  mobility teams that the company describes as built natively into MCP (Model Context
+  Protocol) environments. Topia integrates with HRIS, payroll, travel and expense systems
+  including Workday (a Workday Approved Integration), SAP, ADP, Oracle, Ceridian, SAP
+  Concur and BCD Travel. Topia publishes an llms.txt at its marketing host, but no
+  public developer portal, API reference or machine-readable specification; the support
+  center sits behind a customer login.'
 url: https://raw.githubusercontent.com/api-evangelist/topia/refs/heads/main/apis.yml
+image: https://www.topia.com/assets/topia-logo-ywmojvFn.png
 x-type: company
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
 specificationVersion: '0.20'
 created: '2026-08-05'
 modified: '2026-08-05'
 tags:
 - Company
+- Global Mobility
+- Human Resources
+- Relocation
+- Tax Compliance
+- Immigration
+- Business Travel
+- Workforce Management
+- Remote Work
+- Enterprise Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -19,5 +39,44 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/topia-domain-security.yml
 - type: Website
+  url: https://www.topia.com/
+- type: Blog
+  url: https://www.topia.com/blog
+- type: Support
+  url: https://www.topia.com/support-center
+- type: Login
+  url: https://login.topia.com
+- type: TermsOfService
+  url: https://www.topia.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.topia.com/privacy-policy
+- type: LLMsTxt
+  url: llms/topia-llms.txt
+- type: SecondaryMarket
   url: https://forgeglobal.com/topia_stock/
+x-enrichment:
+  date: '2026-08-05'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
+x-coverage:
+  state: gated
+  reason: customer-only-docs
+  detail: Topia's only documentation surface, support.topia.com, 307-redirects to
+    a HubSpot member login at /_hcms/mem/login, and the company's own 148-URL sitemap
+    contains no developer, API or docs page (api./developer./developers./docs.topia.com
+    are all NXDOMAIN), so the API behind its Workday Approved Integration and its
+    "MCP-native" Horizon agents is reachable only by signed-in customers.
+  evidence:
+  - url: https://support.topia.com/
+    status: 307
+  - url: https://www.topia.com/sitemap.xml
+    status: 200
+  - url: https://www.topia.com/llms.txt
+    status: 200
+  - url: https://login.topia.com/mcp
+    status: 404
+  checked: '2026-08-05'
