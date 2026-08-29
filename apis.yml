@@ -15,6 +15,17 @@ description: 'Topia is a global mobility platform for distributed workforces, us
   public developer portal, API reference or machine-readable specification; the support
   center sits behind a customer login.'
 url: https://raw.githubusercontent.com/api-evangelist/topia/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://www.topia.com/assets/topia-logo-ywmojvFn.png
 x-type: company
 x-source: harvest:secondary-market
